@@ -13,7 +13,7 @@ RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 
 # Copy các thư viện và code từ stage trước
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm install --omit=dev
 COPY server.js ./
 
 # Cấp quyền cho non-root user và chuyển đổi sang user này
