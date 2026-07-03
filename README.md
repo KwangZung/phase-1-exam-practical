@@ -1,1 +1,2 @@
-# phase-1-exam-practical
+Chi tiết báo cáo bài thi thực hành và hướng dẫn khởi chạy vui lòng xem tại repo chính thức:
+[https://github.com/KwangZung/devops-training-NguyenQuangDung/tree/phase-1/exam/Exam/phase-1-practical](https://github.com/KwangZung/devops-training-NguyenQuangDung/tree/phase-1/exam/Exam/phase-1-practical)
